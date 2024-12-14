@@ -1,0 +1,220 @@
+.logo1{
+    margin-left: 200px;
+}
+.move{
+    margin-left: 500px;
+}
+.btn1{
+    margin-right: 50px;
+}
+.btn2{
+    margin-right:20px;
+}
+
+.btn1::hower{
+    color: yellow;
+}
+.font1{
+    font-size: 18px;
+}
+.about{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.parent{
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    height: 765px;
+    position: absolute;
+    top: 0px;
+    opacity: 50%;
+}.h1{
+    position: absolute;
+    top: 350px;
+    left: 450px;
+    color: white;
+    font-weight: 1000;
+    font-size: 60px;
+}
+.poppins-regular {
+    font-family: "Poppins", serif;
+    /* font-weight: bolder; */
+    font-style: normal;
+    
+  }
+  .p1{
+    position: absolute;
+    top: 430px;
+    left: 570px;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+  }
+  .h2{
+    text-align: center;
+    font-style: normal;
+    font-family: "Poppins", serif;
+color: #3F6C8C;
+font-weight: bolder;
+margin-top: 80px;
+
+  }
+.li{
+    /* text-align: center; */
+    color: black;
+    position: absolute;
+    top: 900px;
+    left: 350px;
+    right: 350px;
+    font-family: "Poppins", serif;
+
+    font-size: medium;
+}
+.btnfree{
+    position: absolute;
+    top: 1100px;
+    left: 700px;
+}
+.btnfree::hower{
+    color: yellow;
+}
+.parent1{
+    margin-top: 300px;
+    background-color: #141C3A;
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    height: 500px;
+
+}
+.leaderpic{
+    margin-top: 170px;
+}
+.thoausand{
+    margin-top: 170px;
+}
+
+.head{
+    position: absolute;
+    top: 1250px;
+    color: white;
+    left: 400px;
+    font-weight: bolder;
+}
+.leader{
+    padding: 20px 90px;
+    color: #141C3A;
+    font-weight: 500;
+    font-size: 20px;
+    position: absolute;
+    top: 1580px;
+    left: 270px;
+    background-color: white;
+}
+.thousands{
+    padding: 20px 80px;
+    color: #141C3A;
+    font-weight: 500;
+    font-size: 20px;
+    position: absolute;
+    top: 1580px;
+    left: 900px;
+    background-color: white;
+}
+.coeducate{
+    text-align: center;
+    margin-top: 50px;
+    color: #3F6C8C;
+    font-weight: bolder;
+}
+
+.vol{
+    position: absolute;
+    top: 1830px;
+    left: 200px;
+    width: 250px;
+}
+.driven{
+    position: absolute;
+    top: 2220px;
+    left: 200px;
+    background-color: #FFDE71;
+    color: black;
+    padding: 10px 70px;
+    font-weight: 500;
+
+}
+.parentchild{
+    position: absolute;
+    top: 1830px;
+    left: 1000px;
+    width: 250px;   
+}
+.child{
+    position: absolute;
+    top: 2220px;
+    left: 1003px;
+    background-color: #FFDE71;
+    color: black;
+    padding: 10px 80px;
+    font-weight: 500;
+
+}
+.raise{
+    position: absolute;
+    top: 2300px;
+    left: 200px;
+    width: 250px;   
+
+}
+.collab{
+    position: absolute;
+    top: 2690px;
+    left: 200px;
+    background-color: #FFDE71;
+    color: black;
+    padding: 10px 80px;
+    font-weight: 500;
+}
+.imgteach{
+    position: absolute;
+    top: 2300px;
+    left: 1000px;
+    width: 250px;   
+
+}
+.account{
+    position: absolute;
+    top: 2690px;
+    left: 1003px;
+    background-color: #FFDE71;
+    color: black;
+    padding: 10px 80px;
+    font-weight: 500;
+}
+.stuhelp{
+    position: absolute;
+    top: 2100px;
+    left: 570px;
+    width: 250px; 
+    width: 300px;
+}
+.interact{
+    position: absolute;
+    top: 2570px;
+    left: 570px;
+    background-color: #FFDE71;
+    color: black;
+    padding: 10px 115px;
+    font-weight: 500;
+}
+.free{
+    position: absolute;
+    top: 2800px;
+    left: 650px;
+    padding: 10px 50px;
+}
+.ss1{
+    margin-top: 1100px;
+}
